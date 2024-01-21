@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Física Educativa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #3498db;
+            color: #fff;
+        }
+        main {
+            margin-top: 20px;
+        }
+        article {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Física Educativa</h1>
+    </header>
+    <main>
+        <article>
+            <h2>Título do Artigo 1</h2>
+            <p>Conteúdo educativo sobre física...</p>
+        </article>
+        <article>
+            <h2>Aula 1: Introdução à Física Quântica</h2>
+            <p>Texto introdutório sobre física quântica...</p>
+            <img src="imagem1.jpg" alt="Imagem ilustrativa">
+        </article>
+        <article>
+            <h2>Aula 2: Princípios da Dualidade Onda-Partícula</h2>
+            <p>Exploração dos princípios da dualidade onda-partícula...</p>
+            <img src="imagem2.jpg" alt="Imagem ilustrativa">
+        </article>
+        <article>
+            <h2>Aula 3: O Experimento da Fenda Dupla</h2>
+            <p>Discussão sobre o famoso experimento da fenda dupla...</p>
+            <img src="imagem3.jpg" alt="Imagem ilustrativa">
+        </article>
+        <article>
+            <h2>Aula 4: Estados Quânticos e Superposição</h2>
+            <p>Abordagem sobre estados quânticos e superposição...</p>
+            <img src="imagem4.jpg" alt="Imagem ilustrativa">
+        </article>
+        <article>
+            <h2>Aula 5: Emaranhamento Quântico</h2>
+            <p>Exploração do conceito de emaranhamento quântico...</p>
+            <img src="imagem5.jpg" alt="Imagem ilustrativa">
+        </article>
+    </main>
+</body>
+</html>
